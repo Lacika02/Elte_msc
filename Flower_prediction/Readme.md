@@ -7,4 +7,6 @@ The first stage of the project involved reading and understanding the research p
 
 The remainder of the project focused on data cleaning, exploratory data analysis, model implementation, training, evaluation, and comparing the results with those reported in the original study.
 
-![OMP](images/OMP.png)
+(![OMP Diagram](../images/OMP.png))
+(![OMP results](../images/OMP_results.png))
+
